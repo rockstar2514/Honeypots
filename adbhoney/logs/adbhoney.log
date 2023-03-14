@@ -1,0 +1,138 @@
+2023-01-05 10:08:19,063 - 139683060340416 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-05 10:08:19,063 - 139683060340416 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2023-01-05 10:18:33,057 - 140035094566592 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-05 10:18:33,067 - 140035094566592 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2023-01-05 10:18:50,697 - 140035094566592 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-05 10:18:50,706 - 140035094566592 - ADBHoneypot - INFO - 127.0.0.1 connection start (418f64a6a6a8)
+2023-01-05 10:18:50,706 - 140035094566592 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 57293, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-05T15:18:50.706316Z', 'unixtime': 1672931930, 'session': '418f64a6a6a8', 'sensor': 'honeypot01'}
+2023-01-05 10:19:49,261 - 140035094566592 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-05 10:19:49,262 - 140035094566592 - ADBHoneypot - INFO - 127.0.0.1 connection start (863c6bf64548)
+2023-01-05 10:19:49,262 - 140035094566592 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 44544, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-05T15:19:49.262333Z', 'unixtime': 1672931989, 'session': '863c6bf64548', 'sensor': 'honeypot01'}
+2023-01-05 10:23:35,121 - 140035094566592 - ADBHoneypot - INFO - Exiting...
+2023-01-05 10:23:48,513 - 139682353600192 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-05 10:23:48,514 - 139682353600192 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2023-01-05 10:23:49,490 - 139682353600192 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-05 10:23:49,492 - 139682353600192 - ADBHoneypot - INFO - 127.0.0.1 connection start (83c345d96b7e)
+2023-01-05 10:23:49,492 - 139682353600192 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 56825, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-05T15:23:49.492319Z', 'unixtime': 1672932229, 'session': '83c345d96b7e', 'sensor': 'honeypot01'}
+2023-01-05 10:23:55,440 - 139682353600192 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-05 10:23:55,443 - 139682353600192 - ADBHoneypot - INFO - 127.0.0.1 connection start (c55832529719)
+2023-01-05 10:23:55,443 - 139682353600192 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 40386, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-05T15:23:55.442279Z', 'unixtime': 1672932235, 'session': 'c55832529719', 'sensor': 'honeypot01'}
+2023-01-05 10:23:59,062 - 139682353600192 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-05 10:23:59,063 - 139682353600192 - ADBHoneypot - INFO - 127.0.0.1 connection start (bf8d80d9e54e)
+2023-01-05 10:23:59,063 - 139682353600192 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 42494, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-05T15:23:59.063010Z', 'unixtime': 1672932239, 'session': 'bf8d80d9e54e', 'sensor': 'honeypot01'}
+2023-01-05 10:24:00,064 - 139682353600192 - ADBHoneypot - INFO - data is none?: None
+2023-01-05 10:24:00,064 - 139682353600192 - ADBHoneypot - INFO - 1.0011608600616455	127.0.0.1	connection closed
+2023-01-05 10:24:00,064 - 139682353600192 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.00', 'timestamp': '2023-01-05T15:24:00.064105Z', 'unixtime': 1672932240, 'session': 'bf8d80d9e54e', 'sensor': 'honeypot01'}
+2023-01-05 10:30:29,251 - 139682353600192 - ADBHoneypot - INFO - shell command is , len 0
+2023-01-05 10:30:29,251 - 139682353600192 - ADBHoneypot - INFO - 127.0.0.1	b'shell:'
+2023-01-05 10:30:29,252 - 139682353600192 - ADBHoneypot - INFO - {'eventid': 'adbhoney.command.input', 'input': '', 'src_ip': '127.0.0.1', 'timestamp': '2023-01-05T15:30:29.251422Z', 'unixtime': 1672932629, 'session': 'c55832529719', 'sensor': 'honeypot01'}
+2023-01-05 10:31:24,734 - 139682353600192 - ADBHoneypot - INFO - Receiving binary file...
+2023-01-05 10:31:24,734 - 139682353600192 - ADBHoneypot - INFO - File uploaded: dl/0d95ec9db26956bf20558cb5c4bbfa276c81c7d1c636b1183116af457150b838.raw, name: /etc/hacker, bytes: 16
+2023-01-05 10:31:24,734 - 139682353600192 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.file_upload', 'src_ip': '127.0.0.1', 'shasum': '0d95ec9db26956bf20558cb5c4bbfa276c81c7d1c636b1183116af457150b838', 'outfile': 'dl/0d95ec9db26956bf20558cb5c4bbfa276c81c7d1c636b1183116af457150b838.raw', 'filename': '/etc/hacker', 'timestamp': '2023-01-05T15:31:24.733890Z', 'unixtime': 1672932684, 'session': 'c55832529719', 'sensor': 'honeypot01'}
+2023-01-05 10:31:58,107 - 139682353600192 - ADBHoneypot - INFO - Receiving binary file...
+2023-01-05 10:31:58,107 - 139682353600192 - ADBHoneypot - INFO - File uploaded: dl/0d95ec9db26956bf20558cb5c4bbfa276c81c7d1c636b1183116af457150b838.raw, name: /etc/hacker, bytes: 16
+2023-01-05 10:31:58,107 - 139682353600192 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.file_upload', 'src_ip': '127.0.0.1', 'shasum': '0d95ec9db26956bf20558cb5c4bbfa276c81c7d1c636b1183116af457150b838', 'outfile': 'dl/0d95ec9db26956bf20558cb5c4bbfa276c81c7d1c636b1183116af457150b838.raw', 'filename': '/etc/hacker', 'timestamp': '2023-01-05T15:31:58.106940Z', 'unixtime': 1672932718, 'session': 'c55832529719', 'sensor': 'honeypot01'}
+2023-01-06 01:07:32,959 - 140688569390784 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-06 01:07:32,971 - 140688569390784 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2023-01-06 01:07:35,851 - 140688569390784 - ADBHoneypot - INFO - Exiting...
+2023-01-06 02:19:32,545 - 140336033945280 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-06 02:19:32,551 - 140336033945280 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2023-01-06 02:20:16,926 - 140336033945280 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-06 02:20:16,929 - 140336033945280 - ADBHoneypot - INFO - 127.0.0.1 connection start (158a03870f19)
+2023-01-06 02:20:16,930 - 140336033945280 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 52154, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-06T07:20:16.929592Z', 'unixtime': 1672989616, 'session': '158a03870f19', 'sensor': 'honeypot01'}
+2023-01-06 02:21:35,614 - 140336033945280 - ADBHoneypot - INFO - Receiving binary file...
+2023-01-06 02:21:35,614 - 140336033945280 - ADBHoneypot - INFO - File uploaded: dl/764bf0df723759a9951c0f82b610b59c8d6ba3727037167eb5594b1d07a15f98.raw, name: 0.0.0.0:5555/etc/data, bytes: 19
+2023-01-06 02:21:35,615 - 140336033945280 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.file_upload', 'src_ip': '127.0.0.1', 'shasum': '764bf0df723759a9951c0f82b610b59c8d6ba3727037167eb5594b1d07a15f98', 'outfile': 'dl/764bf0df723759a9951c0f82b610b59c8d6ba3727037167eb5594b1d07a15f98.raw', 'filename': '0.0.0.0:5555/etc/data', 'timestamp': '2023-01-06T07:21:35.614601Z', 'unixtime': 1672989695, 'session': '158a03870f19', 'sensor': 'honeypot01'}
+2023-01-06 02:23:30,955 - 140336033945280 - ADBHoneypot - INFO - Exiting...
+2023-01-22 21:00:57,331 - 139747237922496 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:00:57,348 - 139747237922496 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2023-01-22 21:01:15,237 - 140215819273920 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:01:20,860 - 140719596209856 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:01:55,786 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:01:55,792 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (2bc66bbadde8)
+2023-01-22 21:01:55,792 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 53182, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:01:55.792243Z', 'unixtime': 1674439315, 'session': '2bc66bbadde8', 'sensor': 'honeypot01'}
+2023-01-22 21:02:31,195 - 139747237922496 - ADBHoneypot - INFO - Connection reset by peer.
+2023-01-22 21:02:31,195 - 139747237922496 - ADBHoneypot - INFO - 35.40375065803528	127.0.0.1	connection closed
+2023-01-22 21:02:31,196 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '35.40', 'timestamp': '2023-01-23T02:02:31.195677Z', 'unixtime': 1674439351, 'session': '2bc66bbadde8', 'sensor': 'honeypot01'}
+2023-01-22 21:03:01,448 - 140495292335808 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:03:05,406 - 140144833070784 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:03:14,796 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:03:14,796 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (68f26a292e50)
+2023-01-22 21:03:14,796 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 38728, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:03:14.796135Z', 'unixtime': 1674439394, 'session': '68f26a292e50', 'sensor': 'honeypot01'}
+2023-01-22 21:03:36,241 - 139747237922496 - ADBHoneypot - INFO - Connection reset by peer.
+2023-01-22 21:03:36,243 - 139747237922496 - ADBHoneypot - INFO - 21.44508671760559	127.0.0.1	connection closed
+2023-01-22 21:03:36,243 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '21.45', 'timestamp': '2023-01-23T02:03:36.241027Z', 'unixtime': 1674439416, 'session': '68f26a292e50', 'sensor': 'honeypot01'}
+2023-01-22 21:03:42,201 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:03:42,203 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (430e83dec01c)
+2023-01-22 21:03:42,203 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 38247, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:03:42.202960Z', 'unixtime': 1674439422, 'session': '430e83dec01c', 'sensor': 'honeypot01'}
+2023-01-22 21:06:33,650 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:06:33,651 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (15f8bf0f2211)
+2023-01-22 21:06:33,651 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 60060, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:06:33.650606Z', 'unixtime': 1674439593, 'session': '15f8bf0f2211', 'sensor': 'honeypot01'}
+2023-01-22 21:06:42,137 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:06:42,139 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (257335f7d7c5)
+2023-01-22 21:06:42,140 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 44762, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:06:42.139290Z', 'unixtime': 1674439602, 'session': '257335f7d7c5', 'sensor': 'honeypot01'}
+2023-01-22 21:06:43,141 - 139747237922496 - ADBHoneypot - INFO - data is none?: None
+2023-01-22 21:06:43,141 - 139747237922496 - ADBHoneypot - INFO - 1.0019843578338623	127.0.0.1	connection closed
+2023-01-22 21:06:43,141 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.00', 'timestamp': '2023-01-23T02:06:43.141215Z', 'unixtime': 1674439603, 'session': '257335f7d7c5', 'sensor': 'honeypot01'}
+2023-01-22 21:14:06,179 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:14:06,179 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (be9fad4f6282)
+2023-01-22 21:14:06,179 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 53718, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:14:06.179367Z', 'unixtime': 1674440046, 'session': 'be9fad4f6282', 'sensor': 'honeypot01'}
+2023-01-22 21:14:07,185 - 139747237922496 - ADBHoneypot - INFO - data is none?: None
+2023-01-22 21:14:07,185 - 139747237922496 - ADBHoneypot - INFO - 1.0064327716827393	127.0.0.1	connection closed
+2023-01-22 21:14:07,185 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.01', 'timestamp': '2023-01-23T02:14:07.184817Z', 'unixtime': 1674440047, 'session': 'be9fad4f6282', 'sensor': 'honeypot01'}
+2023-01-22 21:14:20,017 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:14:20,017 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (ab70c44cc621)
+2023-01-22 21:14:20,018 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 35076, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:14:20.017421Z', 'unixtime': 1674440060, 'session': 'ab70c44cc621', 'sensor': 'honeypot01'}
+2023-01-22 21:14:21,019 - 139747237922496 - ADBHoneypot - INFO - data is none?: None
+2023-01-22 21:14:21,020 - 139747237922496 - ADBHoneypot - INFO - 1.0022797584533691	127.0.0.1	connection closed
+2023-01-22 21:14:21,020 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.00', 'timestamp': '2023-01-23T02:14:21.019635Z', 'unixtime': 1674440061, 'session': 'ab70c44cc621', 'sensor': 'honeypot01'}
+2023-01-22 21:14:57,747 - 140390933563072 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:15:02,350 - 139850241103552 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:15:04,462 - 139909180675776 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:15:29,086 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:15:29,088 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (9e1aa67a9443)
+2023-01-22 21:15:29,088 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 45850, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:15:29.088445Z', 'unixtime': 1674440129, 'session': '9e1aa67a9443', 'sensor': 'honeypot01'}
+2023-01-22 21:15:30,094 - 139747237922496 - ADBHoneypot - INFO - data is none?: None
+2023-01-22 21:15:30,094 - 139747237922496 - ADBHoneypot - INFO - 1.0058038234710693	127.0.0.1	connection closed
+2023-01-22 21:15:30,094 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.01', 'timestamp': '2023-01-23T02:15:30.094166Z', 'unixtime': 1674440130, 'session': '9e1aa67a9443', 'sensor': 'honeypot01'}
+2023-01-22 21:15:31,384 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:15:31,385 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (a840af6fb612)
+2023-01-22 21:15:31,385 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 54680, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:15:31.384988Z', 'unixtime': 1674440131, 'session': 'a840af6fb612', 'sensor': 'honeypot01'}
+2023-01-22 21:15:32,389 - 139747237922496 - ADBHoneypot - INFO - data is none?: None
+2023-01-22 21:15:32,389 - 139747237922496 - ADBHoneypot - INFO - 1.0039913654327393	127.0.0.1	connection closed
+2023-01-22 21:15:32,389 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.00', 'timestamp': '2023-01-23T02:15:32.388936Z', 'unixtime': 1674440132, 'session': 'a840af6fb612', 'sensor': 'honeypot01'}
+2023-01-22 21:16:05,382 - 139747237922496 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:16:05,383 - 139747237922496 - ADBHoneypot - INFO - 127.0.0.1 connection start (3edf069aba3a)
+2023-01-22 21:16:05,383 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 57690, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:16:05.382700Z', 'unixtime': 1674440165, 'session': '3edf069aba3a', 'sensor': 'honeypot01'}
+2023-01-22 21:16:06,387 - 139747237922496 - ADBHoneypot - INFO - data is none?: None
+2023-01-22 21:16:06,387 - 139747237922496 - ADBHoneypot - INFO - 1.005481243133545	127.0.0.1	connection closed
+2023-01-22 21:16:06,387 - 139747237922496 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.01', 'timestamp': '2023-01-23T02:16:06.387550Z', 'unixtime': 1674440166, 'session': '3edf069aba3a', 'sensor': 'honeypot01'}
+2023-01-22 21:24:56,428 - 140342739207872 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:24:56,490 - 140342739207872 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2023-01-22 21:25:25,888 - 140342739207872 - ADBHoneypot - INFO - Exiting...
+2023-01-22 21:25:27,152 - 140408775759552 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-22 21:25:27,152 - 140408775759552 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2023-01-22 21:25:34,289 - 140408775759552 - ADBHoneypot - INFO - Received a connection, creating an ADBConnection.
+2023-01-22 21:25:34,292 - 140408775759552 - ADBHoneypot - INFO - 127.0.0.1 connection start (476fe29b1cb7)
+2023-01-22 21:25:34,292 - 140408775759552 - ADBHoneypot - INFO - {'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 43570, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:25:34.292162Z', 'unixtime': 1674440734, 'session': '476fe29b1cb7', 'sensor': 'honeypot01'}
+2023-01-22 21:25:43,784 - 140408775759552 - ADBHoneypot - INFO - shell command is ls 127.0.0.1:5555/system/bin, len 28
+2023-01-22 21:25:43,784 - 140408775759552 - ADBHoneypot - INFO - 127.0.0.1	b'shell:ls 127.0.0.1:5555/system/bin'
+2023-01-22 21:25:43,784 - 140408775759552 - ADBHoneypot - INFO - {'eventid': 'adbhoney.command.input', 'input': 'ls 127.0.0.1:5555/system/bin', 'src_ip': '127.0.0.1', 'timestamp': '2023-01-23T02:25:43.783875Z', 'unixtime': 1674440743, 'session': '476fe29b1cb7', 'sensor': 'honeypot01'}
+2023-01-22 21:25:57,430 - 140408775759552 - ADBHoneypot - INFO - shell command is ls 127.0.0.1:5555/system/bin, len 28
+2023-01-22 21:25:57,430 - 140408775759552 - ADBHoneypot - INFO - 127.0.0.1	b'shell:ls 127.0.0.1:5555/system/bin'
+2023-01-22 21:25:57,431 - 140408775759552 - ADBHoneypot - INFO - {'eventid': 'adbhoney.command.input', 'input': 'ls 127.0.0.1:5555/system/bin', 'src_ip': '127.0.0.1', 'timestamp': '2023-01-23T02:25:57.430640Z', 'unixtime': 1674440757, 'session': '476fe29b1cb7', 'sensor': 'honeypot01'}
+2023-01-22 21:26:01,439 - 140408775759552 - ADBHoneypot - INFO - shell command is ls 127.0.0.1:5555/, len 18
+2023-01-22 21:26:01,439 - 140408775759552 - ADBHoneypot - INFO - 127.0.0.1	b'shell:ls 127.0.0.1:5555/'
+2023-01-22 21:26:01,439 - 140408775759552 - ADBHoneypot - INFO - {'eventid': 'adbhoney.command.input', 'input': 'ls 127.0.0.1:5555/', 'src_ip': '127.0.0.1', 'timestamp': '2023-01-23T02:26:01.439186Z', 'unixtime': 1674440761, 'session': '476fe29b1cb7', 'sensor': 'honeypot01'}
+2023-01-22 21:26:06,145 - 140408775759552 - ADBHoneypot - INFO - shell command is ls 127.0.0.1:5555/, len 18
+2023-01-22 21:26:06,145 - 140408775759552 - ADBHoneypot - INFO - 127.0.0.1	b'shell:ls 127.0.0.1:5555/'
+2023-01-22 21:26:06,146 - 140408775759552 - ADBHoneypot - INFO - {'eventid': 'adbhoney.command.input', 'input': 'ls 127.0.0.1:5555/', 'src_ip': '127.0.0.1', 'timestamp': '2023-01-23T02:26:06.145542Z', 'unixtime': 1674440766, 'session': '476fe29b1cb7', 'sensor': 'honeypot01'}
+2023-01-22 21:26:10,172 - 140408775759552 - ADBHoneypot - INFO - shell command is ls 127.0.0.1:5555/dcim, len 22
+2023-01-22 21:26:10,172 - 140408775759552 - ADBHoneypot - INFO - 127.0.0.1	b'shell:ls 127.0.0.1:5555/dcim'
+2023-01-22 21:26:10,172 - 140408775759552 - ADBHoneypot - INFO - {'eventid': 'adbhoney.command.input', 'input': 'ls 127.0.0.1:5555/dcim', 'src_ip': '127.0.0.1', 'timestamp': '2023-01-23T02:26:10.172093Z', 'unixtime': 1674440770, 'session': '476fe29b1cb7', 'sensor': 'honeypot01'}
+2023-01-22 21:26:22,309 - 140408775759552 - ADBHoneypot - INFO - shell command is ls 127.0.0.1:5555/user, len 22
+2023-01-22 21:26:22,309 - 140408775759552 - ADBHoneypot - INFO - 127.0.0.1	b'shell:ls 127.0.0.1:5555/user'
+2023-01-22 21:26:22,309 - 140408775759552 - ADBHoneypot - INFO - {'eventid': 'adbhoney.command.input', 'input': 'ls 127.0.0.1:5555/user', 'src_ip': '127.0.0.1', 'timestamp': '2023-01-23T02:26:22.309512Z', 'unixtime': 1674440782, 'session': '476fe29b1cb7', 'sensor': 'honeypot01'}
+2023-01-29 21:19:26,386 - 139812741928640 - ADBHoneypot - INFO - Configuration loaded with ['output_log', 'output_json'] as output plugins
+2023-01-29 21:19:26,415 - 139812741928640 - ADBHoneypot - INFO - Listening on 0.0.0.0:5555.
+2023-01-29 21:19:29,214 - 139812741928640 - ADBHoneypot - INFO - Exiting...

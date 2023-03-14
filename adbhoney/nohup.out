@@ -1,0 +1,57 @@
+INFO:config:Loading config from adbhoney.cfg
+INFO:ADBHoneypot:Configuration loaded with ['output_log', 'output_json'] as output plugins
+INFO:ADBHoneypot:Listening on 0.0.0.0:5555.
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (2bc66bbadde8)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 53182, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:01:55.792243Z', 'unixtime': 1674439315, 'session': '2bc66bbadde8', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Connection reset by peer.
+INFO:ADBHoneypot:35.40375065803528	127.0.0.1	connection closed
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '35.40', 'timestamp': '2023-01-23T02:02:31.195677Z', 'unixtime': 1674439351, 'session': '2bc66bbadde8', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (68f26a292e50)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 38728, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:03:14.796135Z', 'unixtime': 1674439394, 'session': '68f26a292e50', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Connection reset by peer.
+INFO:ADBHoneypot:21.44508671760559	127.0.0.1	connection closed
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '21.45', 'timestamp': '2023-01-23T02:03:36.241027Z', 'unixtime': 1674439416, 'session': '68f26a292e50', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (430e83dec01c)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 38247, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:03:42.202960Z', 'unixtime': 1674439422, 'session': '430e83dec01c', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (15f8bf0f2211)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 60060, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:06:33.650606Z', 'unixtime': 1674439593, 'session': '15f8bf0f2211', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (257335f7d7c5)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 44762, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:06:42.139290Z', 'unixtime': 1674439602, 'session': '257335f7d7c5', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:data is none?: None
+INFO:ADBHoneypot:1.0019843578338623	127.0.0.1	connection closed
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.00', 'timestamp': '2023-01-23T02:06:43.141215Z', 'unixtime': 1674439603, 'session': '257335f7d7c5', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (be9fad4f6282)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 53718, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:14:06.179367Z', 'unixtime': 1674440046, 'session': 'be9fad4f6282', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:data is none?: None
+INFO:ADBHoneypot:1.0064327716827393	127.0.0.1	connection closed
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.01', 'timestamp': '2023-01-23T02:14:07.184817Z', 'unixtime': 1674440047, 'session': 'be9fad4f6282', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (ab70c44cc621)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 35076, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:14:20.017421Z', 'unixtime': 1674440060, 'session': 'ab70c44cc621', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:data is none?: None
+INFO:ADBHoneypot:1.0022797584533691	127.0.0.1	connection closed
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.00', 'timestamp': '2023-01-23T02:14:21.019635Z', 'unixtime': 1674440061, 'session': 'ab70c44cc621', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (9e1aa67a9443)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 45850, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:15:29.088445Z', 'unixtime': 1674440129, 'session': '9e1aa67a9443', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:data is none?: None
+INFO:ADBHoneypot:1.0058038234710693	127.0.0.1	connection closed
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.01', 'timestamp': '2023-01-23T02:15:30.094166Z', 'unixtime': 1674440130, 'session': '9e1aa67a9443', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (a840af6fb612)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 54680, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:15:31.384988Z', 'unixtime': 1674440131, 'session': 'a840af6fb612', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:data is none?: None
+INFO:ADBHoneypot:1.0039913654327393	127.0.0.1	connection closed
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.00', 'timestamp': '2023-01-23T02:15:32.388936Z', 'unixtime': 1674440132, 'session': 'a840af6fb612', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:Received a connection, creating an ADBConnection.
+INFO:ADBHoneypot:127.0.0.1 connection start (3edf069aba3a)
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.connect', 'src_ip': '127.0.0.1', 'src_port': 57690, 'dst_ip': '127.0.1.1', 'dst_port': '5555', 'timestamp': '2023-01-23T02:16:05.382700Z', 'unixtime': 1674440165, 'session': '3edf069aba3a', 'sensor': 'honeypot01'}
+INFO:ADBHoneypot:data is none?: None
+INFO:ADBHoneypot:1.005481243133545	127.0.0.1	connection closed
+INFO:ADBHoneypot:{'eventid': 'adbhoney.session.closed', 'src_ip': '127.0.0.1', 'duration': '1.01', 'timestamp': '2023-01-23T02:16:06.387550Z', 'unixtime': 1674440166, 'session': '3edf069aba3a', 'sensor': 'honeypot01'}
